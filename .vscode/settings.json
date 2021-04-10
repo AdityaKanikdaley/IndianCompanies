@@ -1,0 +1,145 @@
+{ 
+    "python.testing.unittestEnabled": true,
+    "material-icon-theme.showWelcomeMessage": false,
+    "editor.fontSize": 14,
+    "editor.formatOnSave": false,
+    "terminal.integrated.fontSize": 14,
+
+    "workbench.colorCustomizations": {
+        "editorGutter.addedBackground": "#048eb8",
+        "editorGutter.modifiedBackground": "#54a30b",
+        "editor.stackFrameHighlightBackground": "#5f1125",
+        "editorGutter.deletedBackground": "#cf0505",
+        "editorOverviewRuler.addedForeground": "#048eb8",
+        "editorOverviewRuler.modifiedForeground": "#54a30b",
+        "editorOverviewRuler.deletedForeground": "#cf0505",
+        "editorOverviewRuler.warningForeground": "#fc9f48",
+        "list.highlightForeground": "#5594f3", //for autocomplete color
+        "gitDecoration.modifiedResourceForeground": "#f7a04e",
+        "list.warningForeground": "#f7a306",
+        "list.errorForeground": "#e64c4c",
+        "terminal.foreground": "#55a6e0",
+        "terminalCursor.foreground": "#22b486",
+        "terminal.ansiBrightYellow": "#1285bb",
+        "terminal.ansiRed": "#fc3879",
+        "terminal.ansiWhite": "#37c99a",
+        "terminal.ansiYellow": "#fa6e6e",
+        "terminal.ansiBrightWhite": "#fa6e6e",
+        "terminal.ansiBrightBlack": "#f77308",
+        "terminal.ansiBrightBlue": "#fa6e6e",
+        "terminal.ansiBrightCyan": "#f152ca",
+        "terminal.ansiBrightGreen": "#c881f8",
+        "terminal.ansiCyan": "#c881f8",
+        "terminal.ansiMagenta": "#c881f8",
+        "terminal.ansiGreen": "#c881f8",
+        "terminal.ansiBlack": "#c881f8",
+     //    "editorBracketMatch.background": "#68b8e6",
+     
+        "dropdown.foreground": "#9d9d9e",
+         "editor.background": "#20252C",
+      //  "editor.foreground": "#999898",
+         "statusBar.background": "#a02a48",
+        "statusBar.foreground": "#ffffffff",
+        "statusBar.debuggingForeground": "#ffffff",
+         "statusBar.noFolderBackground": "#a02a48",
+        "statusBar.noFolderForeground": "#ffffffff",
+        "statusBarItem.hoverBackground": "#be395a",
+        "statusBar.debuggingBackground": "#f54571",
+        "activityBarBadge.background": "#ff0037",
+        "activityBarBadge.foreground": "#ffffff",
+        "sideBar.background": "#20252C",
+        "tab.inactiveBackground": "#20252C",
+        "sideBar.border": "#2b3038",
+        "activityBar.background": "#2b3038",
+        "titleBar.activeBackground": "#2b3038",
+        "titleBar.inactiveBackground": "#2b3038"
+    
+    },
+    "editor.tokenColorCustomizations": {
+        "functions": "#63c0fd",
+        "comments": "#626264",
+        "keywords": "#f14b6f",
+        "strings": "#63c0fd",
+        "numbers": "#64c1ff",
+        "variables": "#f14b6f",
+        "textMateRules": [
+            {
+                "scope": "keyword.operator,meta.attribute.python,keyword.operator.logical.python,constant.language.python,log.error,meta.function-call.generic, meta.function-call.object, meta.function-call.static,entity.name.tag, support.type, variable.other.assignment.go, storage, storage.modifier.java, storage.type.function.python",
+                "settings": {
+                    "foreground": "#f14b6f"
+                },
+            },
+            {
+                "scope": "entity.other.attribute-name.class.css, keyword.operator.proto,entity.name.type.class.java , support.class.dart, string.quoted.double, string.quoted.docstring.multi.python, entity.other.inherited-class, string.quoted.single, string.interpolated, string.quoted, entity.name.class,entity.name.type.class.python",
+                "settings": {
+                    "foreground": "#00c489"
+                },
+            },
+            {
+             "scope": "meta.object-literal.key.js,variable.other.object.js,entity.other.attribute-name.html,entity.name.function, meta.function-call.generic.python,log.constant,support.type.python ,constant.other.caps.python,variable.parameter.function",
+             "settings": {
+                 "foreground": "#63c0fd"
+             },
+         },
+             {
+                "scope": "support.type.vendored.property-name.css,variable.parameter.function.language.special.self.python,variable.language.special.self.python,log.date,support.type.property-name.json, entity.other.attribute-name,keyword.other.create.pgsql, meta.function-call.arguments.python",                "settings": {
+                    "foreground": "#b384ff"
+                }
+            },
+          
+           
+           
+            {
+                "scope": "support.type.property-name, variable.css,invalid.illegal,variable.parameter, variable.other, meta.indexed-name.python,entity.other.inherited-class.python, variable.parameter.function.language.python",
+                "settings": {
+                    // "foreground": "#d19a66",3acf8a da6be4 55bbff 05c2ec b384ff 57c290 e43f68 
+                    "foreground": "#dab572",
+
+                }
+            },
+            {
+                "scope": "variable.css, variable.other.property.js,support.type.property-name.css,",
+                "settings": {
+                    // "foreground": f7405f f7405f "#d19a66",3acf8a da6be4 55bbff 05c2ec b384ff 57c290 e43f68 34ccbf e77c5b f08160
+                    "foreground": "#b384ff",
+
+                }
+            },
+         
+           
+        ]
+    },
+    "git.autofetch": true,
+    "git.autoStash": true,
+    "terminal.integrated.rendererType": "dom",
+    "terminal.integrated.inheritEnv": false,
+    "python.autoComplete.addBrackets": true,
+    "editor.suggestSelection": "first",
+    "python.jediEnabled": false,
+    "window.zoomLevel": 0,
+    "code-runner.runInTerminal": true,
+    "code-runner.saveAllFilesBeforeRun": true,
+    "code-runner.saveFileBeforeRun": true,
+    "files.autoSave": "off",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.largeFileOptimizations": false,
+    "launch": {
+
+   
+    },
+    "java.semanticHighlighting.enabled": true,
+    "go.formatTool": "goimports",
+    "go.useLanguageServer": true,
+    // "python.languageServer": "Jedi",
+    "python.languageServer": "Jedi",
+  
+    "workbench.iconTheme": "material-icon-theme",
+    "python.dataScience.sendSelectionToInteractiveWindow": true,
+    "kite.showWelcomeNotificationOnStartup": false,
+    "workbench.colorTheme": "One Classic Dark+",
+ }
+ 
+ 
+ 
+
+
