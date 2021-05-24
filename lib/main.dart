@@ -29,6 +29,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return new Scaffold(
       appBar: new AppBar(
+        backgroundColor: Colors.blueGrey[800],
+        // elevation: 0.0,
         title: new Text('Indian Companies'),
         // actions: [
         //   IconButton(
@@ -43,9 +45,9 @@ class MyApp extends StatelessWidget {
       body: new Container(
         decoration: BoxDecoration(
           gradient: LinearGradient(
-            begin: Alignment.topRight,
-            end: Alignment.bottomLeft,
-            colors: [Colors.blue,Colors.greenAccent, Colors.orangeAccent]
+            begin: Alignment.topLeft,
+            end: Alignment.bottomRight,
+            colors: [Colors.black,Colors.blueGrey]
           )
         ),
               child: ListView(

@@ -12,9 +12,9 @@ Widget drawer(BuildContext context){
     Container(
       decoration: BoxDecoration(
           gradient: LinearGradient(
-              begin: Alignment.topRight,
-              end: Alignment.bottomLeft,
-              colors: [Colors.blue,Colors.greenAccent, Colors.orangeAccent]
+              begin: Alignment.topLeft,
+              end: Alignment.bottomRight,
+              colors: [Colors.black,Colors.blueGrey]
           )
       ),
 
@@ -23,16 +23,16 @@ Widget drawer(BuildContext context){
           decoration: BoxDecoration(
               color: Colors.transparent
       ),
-            accountName: new Text("Made by Aditya Kanikdaley", style: TextStyle(color: Colors.black, fontSize: 18)),
+            accountName: new Text("Made by Aditya Kanikdaley", style: TextStyle(color: Colors.white, fontSize: 18)),
             currentAccountPicture: CircleAvatar(
                 backgroundImage: AssetImage("assets/headLogo/flag_india.png")),
-            accountEmail: new Text("Developed in INDIA", style: TextStyle(color: Colors.black, fontSize: 16))
+            accountEmail: new Text("Developed in INDIA", style: TextStyle(color: Colors.white, fontSize: 16))
         ),
 
         //about
         new ListTile(
             leading: new Icon(Icons.info_outline, color: Colors.purple),
-            title: Text("About"),
+            title: Text("About",style: TextStyle(color: Colors.white)),
             onTap: () {
                 debugPrint("about pressed");
                 Navigator.push(context, MaterialPageRoute(builder: (context) => aboutClass()
@@ -44,7 +44,7 @@ Widget drawer(BuildContext context){
         //contact
         new ExpansionTile(
             leading: new Icon(Icons.contact_page_outlined, color: Colors.purple),
-            title: Text("Contact"),
+            title: Text("Contact",style: TextStyle(color: Colors.white)),
             children: <Widget>[
 
               //facebook

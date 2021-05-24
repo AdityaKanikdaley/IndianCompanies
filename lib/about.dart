@@ -45,29 +45,30 @@ class aboutClass extends StatelessWidget {
           children: <Widget>[
             Text("This app is mainly made to show that India is becoming much 'self-reliant India' or 'self-sufficient'. \n"
                 "This term was used by the Prime Minister of India Narendra Modi in relation to economic development in country.\n",
-              style: TextStyle(fontSize: 16, color: Color(0xFFe80909)),),
+              style: TextStyle(fontSize: 16,color: Colors.white),),
 
             Text("The five pillars of ‘Atmanirbhar Bharat’ he stated as economy, infrastructure, technology, vibrant demography"
                 " and demand and asked the nation of 1.3 billion people diligently to be vocal for local, PM said.\n",
-              style: TextStyle(fontSize: 15, color: Color(0xFFe32222)),),
+              style: TextStyle(fontSize: 15,color: Colors.white),),
             Text("Therefore, be Proud to be an INDIAN\n",
-              style: TextStyle(fontWeight: FontWeight.bold, fontSize: 14, color: Colors.indigoAccent), ),
+              style: TextStyle(fontWeight: FontWeight.bold, fontSize: 14, color: Colors.white), ),
 
             Text("This app can also be used as a \"SHORTCUT MANAGER\" to visit the Company's Website\n",
-              style: TextStyle(fontWeight: FontWeight.bold, fontSize: 12, color: Colors.indigoAccent), ),
+              style: TextStyle(fontWeight: FontWeight.bold, fontSize: 12, color: Colors.white), ),
 
             Text("Development of this app is been done by: \nAditya Kanikdaley,\nFor any queries and suggestions, mail me on:",
-              style: TextStyle(fontSize: 13, color: Color(0xFFac07b5)),),
+              style: TextStyle(fontSize: 13, color: Colors.white),),
 
             InkWell(
               onTap: _mail,
-              child: Text("adikanikdaley@gmail.com\n\n", style: TextStyle(color: Colors.blue, letterSpacing: 1, fontSize: 12))),
+              child: Text("adikanikdaley@gmail.com\n\n", style: TextStyle(color: Colors.blue, letterSpacing: 1, fontSize: 14))),
 
             Align(
-              alignment: Alignment.bottomRight,
+              alignment: Alignment.bottomCenter,
               // ignore: deprecated_member_use
               child: RaisedButton(
-                color: Colors.redAccent,
+                elevation: 5.0,
+                color: Colors.lightBlue,
                 onPressed: () async {
                   debugPrint("wiki button pressed");
                   const url = "https://en.wikipedia.org/wiki/Atmanirbhar_Bharat";
@@ -79,7 +80,7 @@ class aboutClass extends StatelessWidget {
                       duration: Duration(seconds: 3),
                     )..show(context);
                 },
-                child: Text("Know more about Atmanirbhar Bharat"),
+                child: Text("Know More"),
               ),
             )
           ],
@@ -97,9 +98,9 @@ class aboutClass extends StatelessWidget {
         Container(
           decoration: BoxDecoration(
               gradient: LinearGradient(
-                  begin: Alignment.topRight,
-                  end: Alignment.bottomLeft,
-                  colors: [Colors.blue,Colors.greenAccent, Colors.orangeAccent]
+                  begin: Alignment.topLeft,
+                  end: Alignment.bottomRight,
+                  colors: [Colors.black,Colors.blueGrey]
               )
           ),
           child: Center(
