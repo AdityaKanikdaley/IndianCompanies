@@ -4,11 +4,11 @@
 
 ### And also as a shorcut's list onto the Company's Website. 
 
+#### Screen Shots:
+<img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/Images_git/IC_1.jpg" width="200" height="400" />    <img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/Images_git/IC_2.jpg" width="200" height="400" />    <img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/Images_git/IC_3.jpg" width="200" height="400" />    <img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/Images_git/IC_4.jpg" width="200" height="400" />
 
-<img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/IC_1.jpg" width="200" height="400" />    <img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/IC_2.jpg" width="200" height="400" />
-
-
-<img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/IC_3.jpg" width="200" height="400" />    <img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/IC.gif" width="200" height="400" />
+#### Demo:
+<img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/Images_git/IC.gif" width="200" height="400" />
 
 
 ## Getting Started
