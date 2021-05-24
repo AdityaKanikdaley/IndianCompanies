@@ -6,6 +6,9 @@
 
 
 <img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/IC_1.jpg" width="200" height="400" />
+<img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/IC_2.jpg" width="200" height="400" />
+<img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/IC_3.jpg" width="200" height="400" />
+
 
 ## Getting Started
 
