@@ -5,9 +5,9 @@
 ### Also this app can be used as a shorcut to the websites of these companies. 
 
 
-<img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/IC_1.jpg" width="200" height="400" /><img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/IC_2.jpg" width="200" height="400" />
+<img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/IC_1.jpg" width="200" height="400" />    <img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/IC_2.jpg" width="200" height="400" />
 
-<img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/IC_3.jpg" width="200" height="400" /><img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/IC.gif" width="200" height="400" />
+<img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/IC_3.jpg" width="200" height="400" />    <img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/IC.gif" width="200" height="400" />
 
 ## Getting Started
 
