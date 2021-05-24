@@ -1,7 +1,8 @@
 # Indian Companies
 
-Its the app you can use to view the companies originated in India.
-Also this app can be used as a shorcut to the websites of these companies. 
+### Its the app you can use to view the companies originated in India.
+
+### Also this app can be used as a shorcut to the websites of these companies. 
 
 
 ![2](https://user-images.githubusercontent.com/66816491/119292013-2699c180-bc6d-11eb-8634-0c1ab3334765.jpg)
