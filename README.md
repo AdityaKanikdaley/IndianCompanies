@@ -10,10 +10,10 @@
 <img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/Images_git/IC.gif" width="200" height="400" />
 
 ### Created & Maintained By:
-[Aditya Kanikdaley](https://github.com/AdityaKanikdaley) [LinkedIn](https://www.linkedin.com/in/aditya-kanikdaley-471452190/
+[Aditya Kanikdaley](https://github.com/AdityaKanikdaley) | [LinkedIn](https://www.linkedin.com/in/aditya-kanikdaley-471452190/)
 
 ## License 
-(https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/LICENSE)
+[License](https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/LICENSE)
 
 
 ## Getting Started
