@@ -1,38 +1,29 @@
 import 'package:flushbar/flushbar.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:indian_companies/about.dart';
+import 'package:indian_companies/page/about.dart';
 import 'package:url_launcher/url_launcher.dart';
-
-
 
 Widget drawer(BuildContext context){
   return
     Container(
-      decoration: BoxDecoration(
-          gradient: LinearGradient(
-              begin: Alignment.topLeft,
-              end: Alignment.bottomRight,
-              colors: [Colors.black,Colors.blueGrey]
-          )
-      ),
-
-      child: ListView(children: <Widget>[
-        new UserAccountsDrawerHeader(
-          decoration: BoxDecoration(
-              color: Colors.transparent
-      ),
-            accountName: new Text("Made by Aditya Kanikdaley", style: TextStyle(color: Colors.white, fontSize: 18)),
-            currentAccountPicture: CircleAvatar(
-                backgroundImage: AssetImage("assets/headLogo/flag_india.png")),
-            accountEmail: new Text("Developed in INDIA", style: TextStyle(color: Colors.white, fontSize: 16))
-        ),
+      color: Colors.grey.shade300,
+      child: ListView(
+        children: <Widget>[
+          new UserAccountsDrawerHeader(
+            decoration: BoxDecoration(
+                color: Colors.grey.shade300
+              ),
+              accountName: new Text("Made by Aditya Kanikdaley", style: TextStyle(color: Colors.black, fontSize: 18)),
+              currentAccountPicture: CircleAvatar(
+                  backgroundImage: AssetImage("assets/headLogo/flag_india.png")),
+              accountEmail: new Text("Developed in INDIA", style: TextStyle(color: Colors.black, fontSize: 16))
+          ),
 
         //about
         new ListTile(
-            leading: new Icon(Icons.info_outline, color: Colors.purple),
-            title: Text("About",style: TextStyle(color: Colors.white)),
+            leading: new Icon(Icons.info_outline, color: Colors.black),
+            title: Text("About",style: TextStyle(color: Colors.black)),
             onTap: () {
                 debugPrint("about pressed");
                 Navigator.push(context, MaterialPageRoute(builder: (context) => aboutClass()
@@ -43,8 +34,8 @@ Widget drawer(BuildContext context){
 
         //contact
         new ExpansionTile(
-            leading: new Icon(Icons.contact_page_outlined, color: Colors.purple),
-            title: Text("Contact",style: TextStyle(color: Colors.white)),
+            leading: new Icon(Icons.contact_page_outlined, color: Colors.black),
+            title: Text("Contact",style: TextStyle(color: Colors.black)),
             children: <Widget>[
 
               //facebook
@@ -112,12 +103,6 @@ Widget drawer(BuildContext context){
               ),
             ],
         ),
-
-
-        // new Divider(
-        //   height: 10.0,
-        //   color: Colors.black,
-        // ),
       ],
       ),
     );
