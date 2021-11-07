@@ -1,8 +1,7 @@
-import 'package:flushbar/flushbar.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:indian_companies/page/about.dart';
-import 'package:url_launcher/url_launcher.dart';
+import 'package:indian_companies/page/webView.dart';
 
 Widget drawer(BuildContext context){
   return
@@ -44,14 +43,11 @@ Widget drawer(BuildContext context){
                 onPressed: () async {
                   debugPrint("facebook pressed");
                   const url = "https://www.facebook.com/profile.php?id=100004353226781";
-                  if(await canLaunch(url))
-                    await launch(url);
-                  else
-                     Flushbar(
-                        message: "Can't be reached at this moment!",
-                        duration: Duration(seconds: 3),
-                      )..show(context);
-                          },
+
+                  // to webView
+                  Navigator.push(
+                      context, MaterialPageRoute(builder: (context) => View(url, "Facebook")));
+                  },
               ),
 
               //instagram
@@ -60,13 +56,10 @@ Widget drawer(BuildContext context){
                 onPressed: () async {
                   debugPrint("instagram pressed");
                   const url = "https://www.instagram.com/aditya_kanikdaley/";
-                  if(await canLaunch(url))
-                    await launch(url);
-                  else
-                     Flushbar(
-                      message: "Can't be reached at this moment!",
-                      duration: Duration(seconds: 3),
-                    )..show(context);
+
+                  // to webView
+                  Navigator.push(
+                      context, MaterialPageRoute(builder: (context) => View(url, "Instagram")));
                 },
               ),
 
@@ -76,13 +69,10 @@ Widget drawer(BuildContext context){
                 onPressed: () async {
                   debugPrint("twiter pressed");
                   const url = "https://twitter.com/AKanikdaley";
-                  if(await canLaunch(url))
-                    await launch(url);
-                  else
-                     Flushbar(
-                      message: "Can't be reached at this moment!",
-                      duration: Duration(seconds: 3),
-                    )..show(context);
+
+                  // to webView
+                  Navigator.push(
+                      context, MaterialPageRoute(builder: (context) => View(url, "Twitter")));
                 },
               ),
 
@@ -92,13 +82,11 @@ Widget drawer(BuildContext context){
                 onPressed: () async {
                   debugPrint("linkedin pressed");
                   const url = "https://www.linkedin.com/in/aditya-kanikdaley-471452190/";
-                  if(await canLaunch(url))
-                    await launch(url);
-                  else
-                     Flushbar(
-                      message: "Can't be reached at this moment!",
-                      duration: Duration(seconds: 3),
-                    )..show(context);
+
+                  // to webView
+                  Navigator.push(
+                      context, MaterialPageRoute(builder: (context) => View(url, "LinkedIn")));
+
                 },
               ),
             ],

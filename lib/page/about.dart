@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flushbar/flushbar.dart';
+import 'package:indian_companies/page/webView.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class aboutClass extends StatelessWidget {
@@ -100,13 +100,11 @@ class aboutClass extends StatelessWidget {
                   onPressed: () async {
                     debugPrint("wiki button pressed");
                     const url = "https://en.wikipedia.org/wiki/Atmanirbhar_Bharat";
-                    if(await canLaunch(url))
-                      await launch(url);
-                    else
-                      Flushbar(
-                        message: "Can't be reached at this moment!",
-                        duration: Duration(seconds: 3),
-                      )..show(context);
+
+                    // to webView
+                    Navigator.push(
+                        context, MaterialPageRoute(builder: (context) => View(url, "Atmanirbhar Bharat")));
+
                   },
                   child: Text("Know More", style: TextStyle(color: Colors.black)),
                 ),
