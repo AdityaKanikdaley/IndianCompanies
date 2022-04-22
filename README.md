@@ -1,7 +1,7 @@
 # Indian Companies
 
 ### This app can be used to see the companies originated in India with its details.
-### And also as a shorcut's list to the Company's Website. 
+### And also as a shortcut's list to the Company's Website.
 
 #### Screen Shots:
 <img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/Images_git/IC_new_1.jpg" width="200" height="400" />    <img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/Images_git/IC_new_2.jpg" width="200" height="400" />    <img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/Images_git/IC_new_3.jpg" width="200" height="400" />    <img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/Images_git/IC_new_4.jpg" width="200" height="400" />
@@ -28,7 +28,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-
-
-
-
