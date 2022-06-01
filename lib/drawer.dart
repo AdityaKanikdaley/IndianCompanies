@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:indian_companies/page/about.dart';
+import 'package:indian_companies/page/aboutPage.dart';
 import 'package:indian_companies/page/webView.dart';
 
 Widget drawer(BuildContext context){

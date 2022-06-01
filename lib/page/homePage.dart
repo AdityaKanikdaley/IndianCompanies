@@ -6,7 +6,7 @@ import 'package:http/http.dart' as http;
 import 'dart:convert';
 
 import '../model/CardModel.dart';
-import 'CategoryExpand.dart';
+import 'categoryExpand.dart';
 
 class TilePage extends StatefulWidget {
   @override
