@@ -1,15 +1,16 @@
-import 'package:flutter/cupertino.dart';
-import 'package:flutter/material.dart';
+import 'CardModel.dart';
 
 class Model {
+  final int index;
   final String title;
   final String icon;
-  final List<Widget> cards;
+  List<CardModel> cards;
   bool isExpanded;
 
   Model({
-    @required this.title,
-    this.icon,
+    required this.index,
+    required this.title,
+    required this.icon,
     this.cards = const [],
     this.isExpanded = false,
   });

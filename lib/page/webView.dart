@@ -14,8 +14,8 @@ class View extends StatefulWidget {
 
 class _ViewState extends State<View> {
 
-  String url;
-  String appTitle;
+  String url = "";
+  String appTitle = "";
   @override
   void initState() {
     super.initState();
