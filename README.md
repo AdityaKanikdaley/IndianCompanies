@@ -4,16 +4,16 @@
 ### And also as a shortcut's list to the Company's Website.
 
 #### Screen Shots:
-<img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/Images_git/IC_new_1.jpg" width="200" height="400" />    <img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/Images_git/IC_new_2.jpg" width="200" height="400" />    <img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/Images_git/IC_new_3.jpg" width="200" height="400" />    <img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/Images_git/IC_new_4.jpg" width="200" height="400" />
+<img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/version_1/Images_git/IC_new_1.jpg" width="200" height="400" />    <img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/version_1/Images_git/IC_new_2.jpg" width="200" height="400" />    <img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/version_1/Images_git/IC_new_3.jpg" width="200" height="400" />    <img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/version_1/Images_git/IC_new_4.jpg" width="200" height="400" />
 
 #### Demo:
-<img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/Images_git/IC_new.gif" width="200" height="400" />
+<img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/version_1/Images_git/IC_new.gif" width="200" height="400" />
 
 ### Created & Maintained By:
 [Aditya Kanikdaley](https://github.com/AdityaKanikdaley) | [LinkedIn](https://www.linkedin.com/in/aditya-kanikdaley-471452190/)
 
 ## License 
-[License](https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/LICENSE)
+[License](https://github.com/AdityaKanikdaley/IndianCompanies/blob/version_1/LICENSE)
 
 
 ## Getting Started
