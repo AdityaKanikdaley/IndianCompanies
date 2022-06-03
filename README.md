@@ -1,13 +1,13 @@
-# Indian Companies
+# Indian Companies - Version 2.0
 
 ### This app can be used to see the companies originated in India with its details.
 ### And also as a shortcut's list to the Company's Website.
 
 #### Screen Shots:
-<img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/Images_git/IC_new_1.jpg" width="200" height="400" />    <img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/Images_git/IC_new_2.jpg" width="200" height="400" />    <img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/Images_git/IC_new_3.jpg" width="200" height="400" />    <img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/Images_git/IC_new_4.jpg" width="200" height="400" />
+<img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/version_2/Images_git/IC_v2_1.png" width="200" height="400" />    <img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/version_2/Images_git/IC_v2_2.png" width="200" height="400" />    <img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/version_2/Images_git/IC_v2_3.png" width="200" height="400" />    <img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/version_2/Images_git/IC_v2_4.png" width="200" height="400" />    <img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/version_2/Images_git/IC_v2_5.png" width="200" height="400" />
 
 #### Demo:
-<img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/Images_git/IC_new.gif" width="200" height="400" />
+<img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/version_2/Images_git/IC_v2_demo.gif" width="200" height="400" />
 
 ### Created & Maintained By:
 [Aditya Kanikdaley](https://github.com/AdityaKanikdaley) | [LinkedIn](https://www.linkedin.com/in/aditya-kanikdaley-471452190/)
