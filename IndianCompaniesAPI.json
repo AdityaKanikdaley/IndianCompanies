@@ -1,0 +1,949 @@
+[
+  {
+    "index": 1,
+    "title": "Airplanes",
+    "icon": "assets/headLogo/airlines.png",
+    "cards": [
+      {
+        "path": "assets/airlines/air india.png",
+        "name": "Air India",
+        "sector": "Airlines",
+        "headquarters": "New Delhi",
+        "founded": "1932",
+        "url": "https://bookme.airindia.in/AirIndiaB2C/Booking/Search/"
+      },
+      {
+        "path": "assets/airlines/deccan air.png",
+        "name": "Deccan Charters",
+        "sector": "Airlines",
+        "headquarters": "Bengaluru",
+        "founded": "1997",
+        "url": "http://www.deccanair.com/index-2.html"
+      },
+      {
+        "path": "assets/airlines/goAir airlines.png",
+        "name": "GoAir Airlines",
+        "sector": "Airlines",
+        "headquarters": "Mumbai",
+        "founded": "2005",
+        "url": "https://www.goair.in/"
+      },
+      {
+        "path": "assets/airlines/indigo.png",
+        "name": "IndiGo",
+        "sector": "Airlines",
+        "headquarters": "Gurugram",
+        "founded": "2006",
+        "url": "https://www.goindigo.in/"
+      },
+      {
+        "path": "assets/airlines/SpiceJet.png",
+        "name": "SpiceJet",
+        "sector": "Airlines",
+        "headquarters": "Gurugram",
+        "founded": "2004",
+        "url": "https://www.spicejet.com/"
+      },
+      {
+        "path": "assets/airlines/jet airways.png",
+        "name": "Jet Airways",
+        "sector": "Airlines",
+        "headquarters": "Mumbai",
+        "founded": "1992",
+        "url": "http://www.jetairways.com/insolvencyproceedings/"
+      },
+      {
+        "path": "assets/airlines/air costa.png",
+        "name": "Air Costa",
+        "sector": "Airlines",
+        "headquarters": "Vijayawada",
+        "founded": "2013",
+        "url": "https://en.wikipedia.org/wiki/Air_Costa"
+      },
+      {
+        "path": "assets/airlines/air odisha.png",
+        "name": "Air Odisha",
+        "sector": "Airlines",
+        "headquarters": "Bhubaneswar",
+        "founded": "2012",
+        "url": "https://www.alternativeairlines.com/air-odisha"
+      },
+      {
+        "path": "assets/airlines/jetlite.png",
+        "name": "JetLite",
+        "sector": "Airlines",
+        "headquarters": "Mumbai",
+        "founded": "1991",
+        "url": "https://en.wikipedia.org/wiki/JetLite"
+      },
+      {
+        "path": "assets/airlines/pawan hans.png",
+        "name": "Pawan Hans",
+        "sector": "Airlines",
+        "headquarters": "Noida",
+        "founded": "1985",
+        "url": "https://www.pawanhans.co.in/"
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "title": "Automobiles",
+    "icon": "assets/headLogo/automobiles.png",
+    "cards": [
+      {
+        "path": "assets/automobiles/bajaj auto.png",
+        "name": "Bajaj Auto",
+        "sector": "Consumer Goods",
+        "headquarters": "Pune",
+        "founded": "1945",
+        "url": "https://www.bajajauto.com/"
+      },
+      {
+        "path": "assets/automobiles/Force-Motors-logo-1920x1080.png",
+        "name": "Force Motors",
+        "sector": "Consumer Goods",
+        "headquarters": "Pune",
+        "founded": "1958",
+        "url": "https://www.forcemotors.com/"
+      },
+      {
+        "path": "assets/automobiles/hero motocorp.png",
+        "name": "Hero MotoCorp.",
+        "sector": "Consumer Goods",
+        "headquarters": "Gurugram",
+        "founded": "1984",
+        "url": "https://www.heromotocorp.com/en-in/"
+      },
+      {
+        "path": "assets/automobiles/hindustan motors.png",
+        "name": "Hindustan Motors",
+        "sector": "Consumer Goods",
+        "headquarters": "Kolkata",
+        "founded": "1942",
+        "url": "http://www.hindmotor.com/"
+      },
+      {
+        "path": "assets/automobiles/Mahindra-logo.png",
+        "name": "Mahindra",
+        "sector": "Consumer Goods",
+        "headquarters": "Mumbai",
+        "founded": "1945",
+        "url": "https://auto.mahindra.com/"
+      },
+      {
+        "path": "assets/automobiles/maruti suzuki.png",
+        "name": "Maruti Suzuki",
+        "sector": "Consumer Goods",
+        "headquarters": "New Delhi",
+        "founded": "1981",
+        "url": "https://www.marutisuzuki.com/"
+      },
+      {
+        "path": "assets/automobiles/royal enfield.png",
+        "name": "Royal Enfield",
+        "sector": "Consumer Goods",
+        "headquarters": "Chennai",
+        "founded": "1955",
+        "url": "https://www.royalenfield.com/"
+      },
+      {
+        "path": "assets/automobiles/swaraj mazda.png",
+        "name": "Swaraj Mazda",
+        "sector": "Consumer Goods",
+        "headquarters": "Chandigarh",
+        "founded": "1983",
+        "url": "https://www.smlisuzu.com/"
+      },
+      {
+        "path": "assets/automobiles/tata motors.png",
+        "name": "Tata Motors",
+        "sector": "Consumer Goods",
+        "headquarters": "Mumbai",
+        "founded": "1945",
+        "url": "https://www.tatamotors.com/"
+      },
+      {
+        "path": "assets/automobiles/tvs motor company.png",
+        "name": "TVS Motors",
+        "sector": "Consumer Goods",
+        "headquarters": "Chennai",
+        "founded": "1978",
+        "url": "https://www.tvsmotor.com/"
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "title": "Banks",
+    "icon": "assets/headLogo/banks.jpg",
+    "cards": [
+      {
+        "path": "assets/banks/axis bank.png",
+        "name": "Axis Bank",
+        "sector": "Financials",
+        "headquarters": "Ahmedabad",
+        "founded": "1993",
+        "url": "https://www.axisbank.com/"
+      },
+      {
+        "path": "assets/banks/Bank_of_Baroda_logo.png",
+        "name": "Bank of Baroda",
+        "sector": "Financials",
+        "headquarters": "Vadodara",
+        "founded": "1908",
+        "url": "https://www.bankofbaroda.in/"
+      },
+      {
+        "path": "assets/banks/bank of india.png",
+        "name": "Bank of India",
+        "sector": "Financials",
+        "headquarters": "Mumbai",
+        "founded": "1906",
+        "url": "https://www.bankofindia.co.in/"
+      },
+      {
+        "path": "assets/banks/Canara-Bank-logo.png",
+        "name": "Canara Bank",
+        "sector": "Financials",
+        "headquarters": "Banglore",
+        "founded": "1906",
+        "url": "https://www.canarabank.com/"
+      },
+      {
+        "path": "assets/banks/central-bank-of-india-logo-vector.png",
+        "name": "Central Bank of India",
+        "sector": "Financials",
+        "headquarters": "Mumbai",
+        "founded": "1911",
+        "url": "https://www.centralbankofindia.co.in/english/home.aspx"
+      },
+      {
+        "path": "assets/banks/dena-bank-logo.png",
+        "name": "Dena Bank",
+        "sector": "Financials",
+        "headquarters": "Mumbai",
+        "founded": "1938",
+        "url": "https://edena.bankofbaroda.in/index1.jsp"
+      },
+      {
+        "path": "assets/banks/HDFC-Bank-Logo-PNG.png",
+        "name": "HDFC Bank",
+        "sector": "Financials",
+        "headquarters": "Mumbai",
+        "founded": "1994",
+        "url": "https://www.hdfcbank.com/"
+      },
+      {
+        "path": "assets/banks/icici_bank_logo_symbol.png",
+        "name": "ICICI Bank",
+        "sector": "Financials",
+        "headquarters": "Mumbai",
+        "founded": "1994",
+        "url": "https://www.icicibank.com/"
+      },
+      {
+        "path": "assets/banks/idbi-bank-logo.png",
+        "name": "IDBI Bank",
+        "sector": "Financials",
+        "headquarters": "Mumbai",
+        "founded": "1964",
+        "url": "https://www.idbibank.in/index.asp"
+      },
+      {
+        "path": "assets/banks/indian-bank-logo.png",
+        "name": "Indian Bank",
+        "sector": "Financials",
+        "headquarters": "Chennai",
+        "founded": "1907",
+        "url": "https://www.indianbank.net.in/jsp/startIBPreview.jsp"
+      },
+      {
+        "path": "assets/banks/Indusind-bank-logo.png",
+        "name": "IndusInd Bank",
+        "sector": "Financials",
+        "headquarters": "Mumbai",
+        "founded": "1994",
+        "url": "https://www.indusind.com/in/en/personal.html"
+      },
+      {
+        "path": "assets/banks/state-bank-of-india.png",
+        "name": "State Bank of India",
+        "sector": "Financials",
+        "headquarters": "Mumbai",
+        "founded": "1806",
+        "url": "https://www.onlinesbi.com/"
+      },
+      {
+        "path": "assets/banks/uco-bank-logo.png",
+        "name": "UCO Bank",
+        "sector": "Financials",
+        "headquarters": "Kolkata",
+        "founded": "1943",
+        "url": "https://www.ucobank.com/Hindi/homehindi.aspx"
+      },
+      {
+        "path": "assets/banks/union-bank-of-india-logo.png",
+        "name": "Union Bank of India",
+        "sector": "Financials",
+        "headquarters": "Mumbai",
+        "founded": "1919",
+        "url": "https://www.unionbankofindia.co.in/english/home.aspx"
+      },
+      {
+        "path": "assets/banks/yes-bank-logo.png",
+        "name": "Yes Bank",
+        "sector": "Financials",
+        "headquarters": "Mumbai",
+        "founded": "2004",
+        "url": "https://www.yesbank.in/"
+      },
+      {
+        "path": "assets/banks/Kotak_Mahindra_Bank_logo.png",
+        "name": "Kotak Mahindra Bank",
+        "sector": "Financials",
+        "headquarters": "Mumbai",
+        "founded": "1965",
+        "url": "https://www.kotak.com/en.html"
+      },
+      {
+        "path": "assets/banks/city-union-bank-logo.png",
+        "name": "City Union Bank",
+        "sector": "Financials",
+        "headquarters": "Kumbakonam",
+        "founded": "1904",
+        "url": "https://www.cityunionbank.com/"
+      },
+      {
+        "path": "assets/banks/Karnataka_Bank_.png",
+        "name": "Karnataka Bank",
+        "sector": "Financials",
+        "headquarters": "Mangaluru",
+        "founded": "1924",
+        "url": "https://karnatakabank.com/"
+      },
+      {
+        "path": "assets/banks/indian-overseas-bank-logo.png",
+        "name": "Indian Overseas Bank",
+        "sector": "Financials",
+        "headquarters": "Chennai",
+        "founded": "1937",
+        "url": "https://www.iob.in/"
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "title": "Broadcast & Entertainment",
+    "icon": "assets/headLogo/broadcast.png",
+    "cards": [
+      {
+        "path": "assets/broadcasting/ABP-logo.png",
+        "name": "ABP Group",
+        "sector": "Consumer Services",
+        "headquarters": "Kolkata",
+        "founded": "1922",
+        "url": "https://www.abp.in/"
+      },
+      {
+        "path": "assets/broadcasting/balaji telefilms.png",
+        "name": "Balaji Telefilms",
+        "sector": "Consumer Services",
+        "headquarters": "Mumbai",
+        "founded": "1994",
+        "url": "http://www.balajitelefilms.com/"
+      },
+      {
+        "path": "assets/broadcasting/dish-tv.png",
+        "name": "Dish TV",
+        "sector": "Consumer Services",
+        "headquarters": "Noida",
+        "founded": "2003",
+        "url": "https://www.dishtv.in/"
+      },
+      {
+        "path": "assets/broadcasting/NDTV_logo.svg.png",
+        "name": "NDTV",
+        "sector": "Consumer Services",
+        "headquarters": "New Delhi",
+        "founded": "1988",
+        "url": "https://www.ndtv.com/"
+      },
+      {
+        "path": "assets/broadcasting/Network_18_Logo.svg.png",
+        "name": "Network 18",
+        "sector": "Consumer Services",
+        "headquarters": "Noida",
+        "founded": "1993",
+        "url": "https://www.nw18.com/"
+      },
+      {
+        "path": "assets/broadcasting/reliance-entertainment.png",
+        "name": "Reliance Ent.",
+        "sector": "Consumer Services",
+        "headquarters": "Mumbai",
+        "founded": "2005",
+        "url": "https://www.relianceentertainment.com/"
+      },
+      {
+        "path": "assets/broadcasting/sun-tv-.png",
+        "name": "Sun Group",
+        "sector": "Consumer Services",
+        "headquarters": "Chennai",
+        "founded": "1992",
+        "url": "http://www.sunnetwork.in/"
+      },
+      {
+        "path": "assets/broadcasting/t-series-logo.png",
+        "name": "T-Series",
+        "sector": "Consumer Services",
+        "headquarters": "Noida",
+        "founded": "1983",
+        "url": "https://www.tseries.com/"
+      },
+      {
+        "path": "assets/broadcasting/the-times-group.png",
+        "name": "The Times Group",
+        "sector": "Consumer Services",
+        "headquarters": "Mumbai",
+        "founded": "1838",
+        "url": "https://www.timesgroup.com/"
+      },
+      {
+        "path": "assets/broadcasting/Zee_Entertainment_Enterprises_logo.png",
+        "name": "Zee Ent. Enterprises",
+        "sector": "Consumer Services",
+        "headquarters": "Mumbai",
+        "founded": "1992",
+        "url": "https://www.zee.com/"
+      },
+      {
+        "path": "assets/broadcasting/zee-news-logo.png",
+        "name": "Zee News",
+        "sector": "Consumer Services",
+        "headquarters": "Mumbai",
+        "founded": "1999",
+        "url": "https://zeenews.india.com/"
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "title": "Building Materials",
+    "icon": "assets/headLogo/buildingMaterials.jpg",
+    "cards": [
+      {
+        "path": "assets/buildingMaterials/ACC_Limited_logo.png",
+        "name": "ACC Limited",
+        "sector": "Materials",
+        "headquarters": "Mumbai",
+        "founded": "1936",
+        "url": "https://www.acclimited.com/"
+      },
+      {
+        "path": "assets/buildingMaterials/ambuja-cement-logo-png-8-Free-PNG-Images-Transparent.png",
+        "name": "Ambuja Cements",
+        "sector": "Materials",
+        "headquarters": "Mumbai",
+        "founded": "1983",
+        "url": "http://www.ambujacementfoundation.org/"
+      },
+      {
+        "path": "assets/buildingMaterials/ultratech-cement-logo-CC537D763B-seeklogo.com.png",
+        "name": "UltraTech Cement",
+        "sector": "Materials",
+        "headquarters": "Mumbai",
+        "founded": "1983",
+        "url": "https://www.ultratechcement.com/"
+      },
+      {
+        "path": "assets/buildingMaterials/shree-jung-rodhak-cement-logo-E2D76CE0F9-seeklogo.com.png",
+        "name": "Shree Cement",
+        "sector": "Materials",
+        "headquarters": "Kolkata",
+        "founded": "1979",
+        "url": "https://www.shreecement.com/"
+      }
+    ]
+  },
+  {
+    "index": 6,
+    "title": "Electronics",
+    "icon": "assets/headLogo/consumer_electronic.jpg",
+    "cards": [
+      {
+        "path": "assets/Consumer electronics/bpl group.png",
+        "name": "BPL Group",
+        "sector": "Electronics",
+        "headquarters": "Palakkad",
+        "founded": "1963",
+        "url": "https://en.wikipedia.org/wiki/BPL_Group"
+      },
+      {
+        "path": "assets/Consumer electronics/intex technologies.png",
+        "name": "Intex Technologies",
+        "sector": "Mobile Handsets",
+        "headquarters": "New Delhi",
+        "founded": "1996",
+        "url": "https://www.intex.in/"
+      },
+      {
+        "path": "assets/Consumer electronics/karbonn mobiles.png",
+        "name": "Karbonn Mobiles",
+        "sector": "Mobile Telecom",
+        "headquarters": "Bengaluru",
+        "founded": "2009",
+        "url": "https://www.karbonnmobiles.com/"
+      },
+      {
+        "path": "assets/Consumer electronics/micromax informatics.png",
+        "name": "Micromax Informatics",
+        "sector": "Electronics",
+        "headquarters": "Gurugram",
+        "founded": "2000",
+        "url": "https://micromaxinfo.com/"
+      },
+      {
+        "path": "assets/Consumer electronics/onida eletronics.png",
+        "name": "Onida Electronics",
+        "sector": "Electronics",
+        "headquarters": "Mumbai",
+        "founded": "1981",
+        "url": "https://www.onida.com/"
+      },
+      {
+        "path": "assets/Consumer electronics/voltas.png",
+        "name": "Voltas",
+        "sector": "Electronics",
+        "headquarters": "Mumbai",
+        "founded": "1954",
+        "url": "https://www.voltas.com/"
+      }
+    ]
+  },
+  {
+    "index": 7,
+    "title": "Exploration & Productions",
+    "icon": "assets/headLogo/exploration.png",
+    "cards": [
+      {
+        "path": "assets/exploration_production/Aban_Logo.svg.png",
+        "name": "Aban Offshore",
+        "sector": "Oil & Gas",
+        "headquarters": "Chennai",
+        "founded": "1986",
+        "url": "http://www.abanoffshore.com/"
+      },
+      {
+        "path": "assets/exploration_production/Bharat_Petroleum_Logo.png",
+        "name": "Bharat Petroleum",
+        "sector": "Oil & Gas",
+        "headquarters": "Mumbai",
+        "founded": "1976",
+        "url": "https://www.bharatpetroleum.com/"
+      },
+      {
+        "path": "assets/exploration_production/Chennai_Petroleum_Corporation_logo.svg.png",
+        "name": "Chennai Petroleum Corp.",
+        "sector": "Oil & Gas",
+        "headquarters": "Chennai",
+        "founded": "1965",
+        "url": "https://www.cpcl.co.in/"
+      },
+      {
+        "path": "assets/exploration_production/Hindustan_Petroleum_Logo.svg.png",
+        "name": "Hindustan Petroleum",
+        "sector": "Oil & Gas",
+        "headquarters": "Mumbai",
+        "founded": "1974",
+        "url": "https://www.hindustanpetroleum.com/"
+      },
+      {
+        "path": "assets/exploration_production/Indian_Oil_Logo.svg.png",
+        "name": "Indian Oil Corp.",
+        "sector": "Oil & Gas",
+        "headquarters": "New Delhi",
+        "founded": "1959",
+        "url": "https://iocl.com/"
+      },
+      {
+        "path": "assets/exploration_production/Oil_India_Logo.svg.png",
+        "name": "Oil India",
+        "sector": "Oil & Gas",
+        "headquarters": "Duliajan",
+        "founded": "1959",
+        "url": "https://www.oil-india.com/"
+      },
+      {
+        "path": "assets/exploration_production/ONGC_Logo.svg.png",
+        "name": "Oil & Natural Gas Corp.",
+        "sector": "Oil & Gas",
+        "headquarters": "Dehradun",
+        "founded": "1956",
+        "url": "https://www.ongcindia.com/wps/wcm/connect/en/home/"
+      },
+      {
+        "path": "assets/exploration_production/petronet_lng_logo.png",
+        "name": "Petronet LNG",
+        "sector": "Oil & Gas",
+        "headquarters": "New Delhi",
+        "founded": "1998",
+        "url": "https://www.petronetlng.com/"
+      },
+      {
+        "path": "assets/exploration_production/reliance-petroleum.png",
+        "name": "Reliance Petroleum",
+        "sector": "Oil & Gas",
+        "headquarters": "Ahmedabad",
+        "founded": "2008",
+        "url": "https://www.reliancepetroleum.com/"
+      }
+    ]
+  },
+  {
+    "index": 8,
+    "title": "Food Products",
+    "icon": "assets/headLogo/food.jpg",
+    "cards": [
+      {
+        "path": "assets/food/amul.png",
+        "name": "Amul",
+        "sector": "Consumer Goods",
+        "headquarters": "Anand",
+        "founded": "1946",
+        "url": "https://www.amul.com/"
+      },
+      {
+        "path": "assets/food/bonn-logo.png",
+        "name": "Bonn Group of Industries",
+        "sector": "Consumer Goods",
+        "headquarters": "Ludhiana",
+        "founded": "1985",
+        "url": "http://bonn.in/"
+      },
+      {
+        "path": "assets/food/Britannia_Industries_logo.svg.png",
+        "name": "Britania Industries",
+        "sector": "Consumer Goods",
+        "headquarters": "Kolkata",
+        "founded": "1892",
+        "url": "http://britannia.co.in/"
+      },
+      {
+        "path": "assets/food/Haldiram's_Logo.svg.png",
+        "name": "Haldiram's",
+        "sector": "Consumer Goods",
+        "headquarters": "Bikaner",
+        "founded": "1937",
+        "url": "http://www.haldiram.com/"
+      },
+      {
+        "path": "assets/food/hatsun agro product.png",
+        "name": "Hatsun Agro Product",
+        "sector": "Consumer Goods",
+        "headquarters": "Chennai",
+        "founded": "1970",
+        "url": "https://www.hap.in/"
+      },
+      {
+        "path": "assets/food/Milky_Mist.png",
+        "name": "Milky Mist Dairy",
+        "sector": "Consumer Goods",
+        "headquarters": "Erode",
+        "founded": "1992",
+        "url": "https://www.milkymist.com/"
+      },
+      {
+        "path": "assets/food/Organic india.png",
+        "name": "Organic India",
+        "sector": "Consumer Goods",
+        "headquarters": "Lucknow",
+        "founded": "1997",
+        "url": "https://www.organicindia.com/"
+      },
+      {
+        "path": "assets/food/Parle_Products-Logo.wine.png",
+        "name": "Parle",
+        "sector": "Consumer Goods",
+        "headquarters": "Mumbai",
+        "founded": "1929",
+        "url": "https://www.parleproducts.com/"
+      },
+      {
+        "path": "assets/food/reliance fresh.png",
+        "name": "Reliance Fresh",
+        "sector": "Consumer Goods",
+        "headquarters": "Mumbai",
+        "founded": "2006",
+        "url": "https://relianceretail.com/reliance-fresh.html"
+      }
+    ]
+  },
+  {
+    "index": 9,
+    "title": "Healthcare Providers",
+    "icon": "assets/headLogo/healthcare.jpg",
+    "cards": [
+      {
+        "path": "assets/healthcare_providers/aiims.png",
+        "name": "AIIMS",
+        "sector": "Health Care",
+        "headquarters": "New Delhi",
+        "founded": "1956",
+        "url": "https://www.aiims.edu/en.html"
+      },
+      {
+        "path": "assets/healthcare_providers/apollo-hospitals.png",
+        "name": "Apollo Hospitals",
+        "sector": "Health Care",
+        "headquarters": "Chennai",
+        "founded": "1983",
+        "url": "https://www.apollohospitals.com/"
+      },
+      {
+        "path": "assets/healthcare_providers/Fortis_Healthcare.png",
+        "name": "Fortis Healthcare",
+        "sector": "Health Care",
+        "headquarters": "Gurugram",
+        "founded": "2001",
+        "url": "https://www.fortishealthcare.com/"
+      },
+      {
+        "path": "assets/healthcare_providers/reliance health.png",
+        "name": "Reliance Health",
+        "sector": "Health Care",
+        "headquarters": "Mumbai",
+        "founded": "2006",
+        "url": "https://www.reliancegeneral.co.in/Insurance/Health-Insurance/Health-Gain-Insurance.aspx"
+      }
+    ]
+  },
+  {
+    "index": 10,
+    "title": "Shipbuilding",
+    "icon": "assets/headLogo/shipyard.jpg",
+    "cards": [
+      {
+        "path": "assets/shipbuilding/abg shipyard.png",
+        "name": "ABG Shipyard",
+        "sector": "Ship Engineering",
+        "headquarters": "Ahmedabad",
+        "founded": "1985",
+        "url": "https://www.abgindia.com/"
+      },
+      {
+        "path": "assets/shipbuilding/cochin shipyard limited.png",
+        "name": "Cochin Shipyard Ltd.",
+        "sector": "Ship building",
+        "headquarters": "Kochi",
+        "founded": "1972",
+        "url": "https://cochinshipyard.com/"
+      },
+      {
+        "path": "assets/shipbuilding/Goa shipyard.png",
+        "name": "Goa Shipyard",
+        "sector": "Ship building",
+        "headquarters": "Goa",
+        "founded": "1957",
+        "url": "https://goashipyard.in/"
+      },
+      {
+        "path": "assets/shipbuilding/hindustan shipyard.webp",
+        "name": "Hindustan Shipyard",
+        "sector": "Ship building",
+        "headquarters": "Visakhapatnam",
+        "founded": "1941",
+        "url": "https://www.hslvizag.in/"
+      },
+      {
+        "path": "assets/shipbuilding/mazagon dock shipyard.png",
+        "name": "Mazagon Shipbuilders",
+        "sector": "Ship building",
+        "headquarters": "Mumbai",
+        "founded": "1934",
+        "url": "https://mazagondock.in/"
+      }
+    ]
+  },
+  {
+    "index": 11,
+    "title": "Specialty Chemicals",
+    "icon": "assets/headLogo/s_chemicals.jpg",
+    "cards": [
+      {
+        "path": "assets/specialty_Chemicals/asian-paints-logo.png",
+        "name": "Asian Paints Ltd.",
+        "sector": "Paints",
+        "headquarters": "Mumbai",
+        "founded": "1942",
+        "url": "https://www.asianpaints.com/campaign/asian-paints-safe-painting-service/index-new-service.html?cid=PS_GA_DM_A&utm_source=Google_Search_Brand&utm_medium=cpc&utm_campaign=&utm_adgroup=Asian_Paints_New&utm_term=%2Basian%20%2Bpaint&utm_term=b-c&gclid=Cj0KCQiAhP2BBhDdARIsAJEzXlHhvWMpYw2zc-czf4s_ftHYn6Tc6HMnw9iYq5fW_J013QEcll4pcr8aAsxsEALw_wcB"
+      },
+      {
+        "path": "assets/specialty_Chemicals/coromandel_logo.png",
+        "name": "Coromandel International",
+        "sector": "Fertilizers & Pesticides",
+        "headquarters": "Hydrabad",
+        "founded": "1960",
+        "url": "https://coromandel.biz/products.html"
+      },
+      {
+        "path": "assets/specialty_Chemicals/fertilisers & chemicals travancore limites(FACT).png",
+        "name": "FACT",
+        "sector": "Fertilizers",
+        "headquarters": "Kochi",
+        "founded": "1943",
+        "url": "http://fact.co.in/"
+      },
+      {
+        "path": "assets/specialty_Chemicals/mangalore chemicals & fertilisers.png",
+        "name": "Mangalore Chemicals",
+        "sector": "Fertilizers",
+        "headquarters": "Bengaluru",
+        "founded": "1974",
+        "url": "https://www.mangalorechemicals.com/"
+      },
+      {
+        "path": "assets/specialty_Chemicals/National_Fertilizers_Logo.svg.png",
+        "name": "National Fertilizers Ltd.",
+        "sector": "Fertilizers",
+        "headquarters": "Noida",
+        "founded": "1974",
+        "url": "https://www.nationalfertilizers.com/"
+      },
+      {
+        "path": "assets/specialty_Chemicals/pidilite industries.png",
+        "name": "Pidilite Industries",
+        "sector": "Adhesives & Chemicals",
+        "headquarters": "Mumbai",
+        "founded": "1959",
+        "url": "https://www.pidilite.com/"
+      },
+      {
+        "path": "assets/specialty_Chemicals/rashtriya chemicals & fertilisers.png",
+        "name": "Rashtriya Chemicals",
+        "sector": "Fertilizers",
+        "headquarters": "Mumbai",
+        "founded": "1978",
+        "url": "https://www.rcfltd.com/"
+      },
+      {
+        "path": "assets/specialty_Chemicals/travancore titanium products.png",
+        "name": "Travancore Titanium",
+        "sector": "Titamium Dioxide",
+        "headquarters": "Trivandrum",
+        "founded": "1946",
+        "url": "https://www.travancoretitanium.com/"
+      }
+    ]
+  },
+  {
+    "index": 12,
+    "title": "Telecommunication",
+    "icon": "assets/headLogo/telecommunication.png",
+    "cards": [
+      {
+        "path": "assets/telecommunications/Airtel_logo.png",
+        "name": "Bharati Airtel",
+        "sector": "Mobile Network",
+        "headquarters": "New Delhi",
+        "founded": "1995",
+        "url": "https://www.airtel.in/"
+      },
+      {
+        "path": "assets/telecommunications/bsnl-logo.png",
+        "name": "BSNL",
+        "sector": "State Telecom",
+        "headquarters": "New Delhi",
+        "founded": "2000",
+        "url": "http://www.bsnl.co.in/"
+      },
+      {
+        "path": "assets/telecommunications/vi.png",
+        "name": "Vodafone Idea",
+        "sector": "Mobile Network",
+        "headquarters": "Mumbai",
+        "founded": "2018",
+        "url": "https://www.myvi.in/"
+      },
+      {
+        "path": "assets/telecommunications/ITI_Limited_logo.png",
+        "name": "Indian Telephone Ind.",
+        "sector": "State Telecom",
+        "headquarters": "Bengaluru",
+        "founded": "1949",
+        "url": "https://www.itiltd.in/"
+      },
+      {
+        "path": "assets/telecommunications/Mahanagar_Telephone_Nigam_Limited-Logo.wine.png",
+        "name": "Mahanagar Telephoned",
+        "sector": "State-Owned Telecom",
+        "headquarters": "New Delhi",
+        "founded": "1986",
+        "url": "http://www.mtnl.net.in/"
+      },
+      {
+        "path": "assets/telecommunications/reliance communications.png",
+        "name": "Reliance Comm.",
+        "sector": "Part of Reliance Group",
+        "headquarters": "Mumbai",
+        "founded": "2002",
+        "url": "https://www.rcom.co.in/"
+      },
+      {
+        "path": "assets/telecommunications/spice telecom.png",
+        "name": "Spice Telecom",
+        "sector": "Mobile Telecom",
+        "headquarters": "Mohali",
+        "founded": "1997",
+        "url": "https://en.wikipedia.org/wiki/Spice_Digital"
+      },
+      {
+        "path": "assets/telecommunications/tata sky.png",
+        "name": "Tata Sky",
+        "sector": "Mobile Telecom",
+        "headquarters": "Mumbai",
+        "founded": "2004",
+        "url": "https://www.tatasky.com/"
+      },
+      {
+        "path": "assets/telecommunications/tata-communications.png",
+        "name": "Tata Communications",
+        "sector": "Fixed Line Telecom",
+        "headquarters": "Mumbai",
+        "founded": "1986",
+        "url": "https://www.tatacommunications.com/"
+      }
+    ]
+  },
+  {
+    "index": 13,
+    "title": "Tyres",
+    "icon": "assets/headLogo/tyres.jpg",
+    "cards": [
+      {
+        "path": "assets/tires/Apollo_tyres_logo.svg.png",
+        "name": "Apollo Tyres",
+        "sector": "Tyres & Parts",
+        "headquarters": "Gurugram",
+        "founded": "1972",
+        "url": "https://www.apollotyres.com/en-in/car-suv-van/tyre-finder/?ef_id=Cj0KCQiAhP2BBhDdARIsAJEzXlFMcsLOrnlwIRjJvIi-5CJTqsHE4yzAHM39-ISbEpW9kGpSJfycW-4aAlLtEALw_wcB:G:s&gclid=Cj0KCQiAhP2BBhDdARIsAJEzXlFMcsLOrnlwIRjJvIi-5CJTqsHE4yzAHM39-ISbEpW9kGpSJfycW-4aAlLtEALw_wcB"
+      },
+      {
+        "path": "assets/tires/ceat.png",
+        "name": "CEAT",
+        "sector": "Tyres",
+        "headquarters": "Mumbai",
+        "founded": "1958",
+        "url": "https://www.ceat.com/"
+      },
+      {
+        "path": "assets/tires/MRF.png",
+        "name": "MRF",
+        "sector": "Tyres",
+        "headquarters": "Chennai",
+        "founded": "1946",
+        "url": "https://www.mrftyres.com/"
+      }
+    ]
+  }
+]
