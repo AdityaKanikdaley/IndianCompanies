@@ -14,10 +14,9 @@ class TilePage extends StatefulWidget {
 }
 
 class _TilePageState extends State<TilePage> {
-
   Future<List<Model>> _getUsers() async {
     var uri = Uri.parse(
-        'https://adityakanikdaley.github.io/jsonAPI/IndianCompaniesAPI.json');
+        'https://adityakanikdaley.github.io/IndianCompanies/IndianCompaniesAPI.json');
     var data = await http.get(uri);
     var jsonData = jsonDecode(data.body);
 
@@ -68,7 +67,10 @@ class _TilePageState extends State<TilePage> {
               builder: (BuildContext context, AsyncSnapshot snapshot) {
                 if (snapshot.data == null) {
                   return const Center(
-                    child: CircularProgressIndicator(color: Colors.grey, backgroundColor: Colors.black, strokeWidth: 5),
+                    child: CircularProgressIndicator(
+                        color: Colors.grey,
+                        backgroundColor: Colors.black,
+                        strokeWidth: 5),
                   );
                 } else {
                   return ListView.builder(
@@ -82,8 +84,14 @@ class _TilePageState extends State<TilePage> {
                               backgroundImage:
                                   AssetImage(snapshot.data[index].icon),
                             ),
-                            title: Text(snapshot.data[index].title, style: TextStyle(fontSize: 16.5, fontWeight: FontWeight.w500), overflow: TextOverflow.ellipsis,),
-                            trailing: Icon(Icons.arrow_forward, color: Colors.grey.shade700),
+                            title: Text(
+                              snapshot.data[index].title,
+                              style: TextStyle(
+                                  fontSize: 16.5, fontWeight: FontWeight.w500),
+                              overflow: TextOverflow.ellipsis,
+                            ),
+                            trailing: Icon(Icons.arrow_forward,
+                                color: Colors.grey.shade700),
                             onTap: () => {
                               Navigator.push(
                                   context,
