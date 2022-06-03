@@ -13,7 +13,7 @@
 [Aditya Kanikdaley](https://github.com/AdityaKanikdaley) | [LinkedIn](https://www.linkedin.com/in/aditya-kanikdaley-471452190/)
 
 ## License 
-[License](https://github.com/AdityaKanikdaley/IndianCompanies/blob/master/LICENSE)
+[License](https://github.com/AdityaKanikdaley/IndianCompanies/blob/version_2/LICENSE)
 
 
 ## Getting Started
