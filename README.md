@@ -4,10 +4,10 @@
 ### And also as a shortcut's list to the Company's Website.
 
 #### Screen Shots:
-<img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/version_2/Images_git/IC_v2_1.png" width="200" height="400" />    <img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/version_2/Images_git/IC_v2_2.png" width="200" height="400" />    <img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/version_2/Images_git/IC_v2_3.png" width="200" height="400" />    <img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/version_2/Images_git/IC_v2_4.png" width="200" height="400" />    <img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/version_2/Images_git/IC_v2_5.png" width="200" height="400" />
+<img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/version_2/Images_git/IC_v2_1.png" height="400" />    <img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/version_2/Images_git/IC_v2_2.png" height="400" />    <img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/version_2/Images_git/IC_v2_3.png" height="400" />    <img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/version_2/Images_git/IC_v2_4.png" height="400" />    <img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/version_2/Images_git/IC_v2_5.png" height="400" />
 
 #### Demo:
-<img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/version_2/Images_git/IC_v2_demo.gif" width="200" height="400" />
+<img src="https://github.com/AdityaKanikdaley/IndianCompanies/blob/version_2/Images_git/IC_v2_demo.gif" height="400" />
 
 ### Created & Maintained By:
 [Aditya Kanikdaley](https://github.com/AdityaKanikdaley) | [LinkedIn](https://www.linkedin.com/in/aditya-kanikdaley-471452190/)
