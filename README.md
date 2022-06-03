@@ -1,4 +1,4 @@
-# Indian Companies - Version 2.0
+# Indian Companies - Version 2.0.0
 
 ### This app can be used to see the companies originated in India with its details.
 ### And also as a shortcut's list to the Company's Website.
