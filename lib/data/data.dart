@@ -8,7 +8,7 @@ final advancedTiles = <Model>[
     title: "Airplanes",
     icon: "assets/headLogo/airlines.png",
     cards: [
-      card("assets/airlines/air india.png", "Air India", "Airlines", "New Delhi", "1932","https://bookme.airindia.in/AirIndiaB2C/Booking/Search/"),
+      card("assets/airlines/air india.png", "Air India", "Airlines", "New Delhi", "1932","https://www.airindia.in/"),
       card("assets/airlines/deccan air.png", "Deccan Charters", "Airlines", "Bengaluru", "1997","http://www.deccanair.com/index-2.html"),
       card("assets/airlines/goAir airlines.png", "GoAir Airlines", "Airlines", "Mumbai", "2005","https://www.goair.in/"),
       card("assets/airlines/indigo.png", "IndiGo", "Airlines", "Gurugram", "2006","https://www.goindigo.in/"),
